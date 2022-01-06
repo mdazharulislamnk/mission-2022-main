@@ -2,7 +2,7 @@ body{
 
     font-family: 'Lora', serif;
     font-family: 'Poppins', sans-serif;
-  margin: 0;
+    margin: 5%;
 }
 
 h1{
@@ -126,6 +126,184 @@ h1{
 
 .dev-strategy img{
     width: 60%;
+}
+
+
+
+
+.link-button
+{
+    text-decoration: none;
+
+    background-image: linear-gradient(red, orangered);
+
+    color:white;
+
+    font-weight: 700;
+
+    padding: 10px 40px;
+
+
+}
+
+.development{
+
+    background-image: url(images/shapes/shape.png);
+
+    background-repeat: no-repeat;
+    background-position: left;
+  
+}
+
+.global-community{
+
+    background-image: url(images/shapes/shape\ Copy.png);
+
+    background-repeat: no-repeat;
+    
+    background-position:right;
+  
+}
+footer {
+
+    text-align: center;
+ 
+    margin-bottom: 0%;
+ }
+
+ footer h2{
+
+    font-family: 'Lobster', cursive;
+
+
+ }body{
+
+    font-family: 'Lora', serif;
+    font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+h1{
+
+    font-size: 50px;
+}
+
+#h1-side-atyle{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,red);
+    border-image-slice: 1;
+    padding-left: 2%;
+}
+
+.margin-left{
+    margin-left: 5%;
+}
+.margin-right{
+   margin-right: 15%;
+   
+}
+.margin-top{
+      margin-top: 10%;
+}
+
+.margin-bottom{
+
+    margin-bottom:20%;
+}
+
+.mission-background{
+    background-color: rgba(235,242,243,255);
+    margin:2%;
+    border-radius: 20px;
+  
+}
+.mission-background img{
+    width: 60%;  
+
+}
+
+.vision-background{
+    background-color: rgba(253,236,232,255);
+ 
+    border-radius: 20px;
+    margin:2%;
+}
+.vision-background img{
+    width: 60%;
+}
+.goal-background{
+    background-color: rgba(253,246,216,255);
+
+    border-radius: 20px;
+    margin:2%;
+}
+
+.goal-background img{
+    width: 60%;
+}
+.orange-color{
+
+    color: orange;
+}
+
+.footer-color-bg{
+
+    background-color: rgba(16,16,22,255);
+}
+
+.white-color{
+
+    color: white;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.flexible-container{
+
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.half-width{
+
+    width: 50%;
+
+    padding: 4%;
+}
+.half-width img{
+    width: 80%;
+   
+}
+
+.mission-width{
+
+    width: 40%;
+    padding: 2%;
+}
+.mission-width img{
+    width: 40%;
+   
+}
+
+.half-pass{
+    
+    width: 70%; 
+    
+}
+.half-pass img{
+    width: 80%;
+   
+}
+
+.dev-strategy{
+
+    width: 70%;
+}
+
+.dev-strategy img{
+    width: 50%;
 }
 
 
